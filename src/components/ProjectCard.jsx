@@ -4,7 +4,7 @@ import { motion } from 'framer-motion'
 export default function ProjectCard({ title, description, tags = [], link = '#' }) {
 	return (
 		<motion.a
-			// href={link}
+			href={link}
 			target="_blank"
 			rel="noreferrer"
 			whileHover={{ y: -6, scale: 1.02 }}
