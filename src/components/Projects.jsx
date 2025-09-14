@@ -5,7 +5,7 @@ import ProjectCard from './ProjectCard.jsx'
 const data = [
 	{
 		title: 'PromptPay',
-		description: 'Modern point-of-sale web app with offline support and analytics.',
+		description: 'This project demonstrates a simple and practical way to generate PromptPay QR codes using programming. Users only need to enter their phone number and the payment amount, and the system instantly creates a QR code that follows the official Thai QR PromptPay standard. It can be applied to online shops, POS systems, or automated payment verification.',
 		tags: ['React', 'Tailwind'],
 		link: 'https://promptpay-cykq.onrender.com',
 	},
