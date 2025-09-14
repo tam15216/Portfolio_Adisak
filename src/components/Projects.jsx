@@ -4,10 +4,10 @@ import ProjectCard from './ProjectCard.jsx'
 
 const data = [
 	{
-		title: 'POS System',
+		title: 'PromptPay',
 		description: 'Modern point-of-sale web app with offline support and analytics.',
-		tags: ['React', 'Flask', 'SQLite'],
-		link: '#',
+		tags: ['React', 'Tailwind'],
+		link: 'https://promptpay-cykq.onrender.com',
 	},
 	{
 		title: 'Creating a Gas (LPG) Detection System Learning Media',
